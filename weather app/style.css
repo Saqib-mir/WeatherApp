@@ -1,0 +1,30 @@
+#cityName {
+    text-transform: uppercase;
+    padding: 0%;
+}
+body {
+    background-image: url("https://img.freepik.com/free-photo/white-cloud-blue-sky_74190-2381.jpg?w=1060&t=st=1686335154~exp=1686335754~hmac=914ca4f6f91aaeae5ae97bc0d732f400443cdcb78b2c6831b182d9bf1b1fa327");
+  }
+
+#weather_app{
+    color:black;
+    font-style:normal;
+    font-weight: bold;
+    
+}
+#saqibtemp{
+    background-image: url(https://images.unsplash.com/photo-1511836536898-6d6f1b8f6948?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80://images.unsplash.com/photo-1470252649378-9c29740c9fa8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+    
+}
+
+#humi{
+    background-image: url(https://cdn.pixabay.com/photo/2023/02/07/13/55/forest-7774205_1280.jpg);
+}
+
+#wind{
+    background-image:url(http://weknowyourdreams.com/images/wind/wind-09.jpg)
+}
+
+#city{
+    background-color: aqua;
+}
